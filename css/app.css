@@ -395,6 +395,11 @@ nav ul {
       margin: 0;
    }
 }
+@media (max-width: 400px) {
+   .moreabout {
+      width: 89%;
+   }
+}
 @media (min-width: 768px) and (max-width: 1680px) {
    .moreabout {
       margin: 1.5rem 2.5rem 0 2.5rem;
